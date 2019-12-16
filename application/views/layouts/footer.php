@@ -1,8 +1,8 @@
 <footer class="main-footer">
             <div class="pull-right hidden-xs">
-                <b>Version</b> 2.4.0
+                <b>Version</b> 1.0
             </div>
-            <strong>Copyright &copy; 2014-2016 <a href="https://adminlte.io">Almsaeed Studio</a>.</strong> All rights
+            <strong>Copyright &copy; 2019-2020 <a href="https://pe.linkedin.com/in/homer-l%C3%B3pez-vidal-665858123">Homer López Vidal</a>.</strong> All rights
             reserved.
         </footer>
     </div>
