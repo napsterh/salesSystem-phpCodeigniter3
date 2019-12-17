@@ -1,5 +1,3 @@
-        <!-- =============================================== -->
-
         <!-- Left side column. contains the sidebar -->
         <aside class="main-sidebar">
             <!-- sidebar: style can be found in sidebar.less -->
@@ -16,7 +14,7 @@
                         <a href="#">
                             <i class="fa fa-cogs"></i> <span>Mantenimiento</span>
                             <span class="pull-right-container">
-                                <i class="fa fa-angle-left pull-right"></i>
+                                <i class="fa fa-angle-right pull-right"></i>
                             </span>
                         </a>
                         <ul class="treeview-menu">
@@ -29,7 +27,7 @@
                         <a href="#">
                             <i class="fa fa-share-alt"></i> <span>Movimientos</span>
                             <span class="pull-right-container">
-                                <i class="fa fa-angle-left pull-right"></i>
+                                <i class="fa fa-angle-right pull-right"></i>
                             </span>
                         </a>
                         <ul class="treeview-menu">
@@ -41,7 +39,7 @@
                         <a href="#">
                             <i class="fa fa-print"></i> <span>Reportes</span>
                             <span class="pull-right-container">
-                                <i class="fa fa-angle-left pull-right"></i>
+                                <i class="fa fa-angle-right pull-right"></i>
                             </span>
                         </a>
                         <ul class="treeview-menu">
@@ -55,7 +53,7 @@
                         <a href="#">
                             <i class="fa fa-user-circle-o"></i> <span>Administrador</span>
                             <span class="pull-right-container">
-                                <i class="fa fa-angle-left pull-right"></i>
+                                <i class="fa fa-angle-right pull-right"></i>
                             </span>
                         </a>
                         <ul class="treeview-menu">

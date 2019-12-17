@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>AdminLTE 2 | Log in</title>
+  <title>Sistema Ventas | Iniciar sesión</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   
-  <!-- base_url() = http://localhost/ventas_ci/-->
+  <!-- base_url() = http://localhost/salesSystem-phpCodeigniter3/-->
 
   <!-- Bootstrap 3.3.7 -->
   <link rel="stylesheet" href="<?php echo base_url();?>assets/template/bootstrap/css/bootstrap.min.css">
@@ -25,13 +25,13 @@
         </div>
         <!-- /.login-logo -->
         <div class="login-box-body">
-             <form action="../../index2.html" method="post">
+             <form action="<?php echo base_url();?>auth/login" method="post">
                 <div class="form-group has-feedback">
-                    <input type="text" class="form-control" placeholder="Usuario">
+                    <input type="text" class="form-control" placeholder="Usuario" name="username">
                     <span class="glyphicon glyphicon-user form-control-feedback"></span>
                 </div>
                 <div class="form-group has-feedback">
-                    <input type="password" class="form-control" placeholder="Contraseña">
+                    <input type="password" class="form-control" placeholder="Contraseña" name="password">
                     <span class="glyphicon glyphicon-lock form-control-feedback"></span>
                 </div>
                 <div class="row">
