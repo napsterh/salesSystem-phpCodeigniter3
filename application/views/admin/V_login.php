@@ -25,7 +25,7 @@
         </div>
         <!-- /.login-logo -->
         <div class="login-box-body">
-             <form action="<?php echo base_url();?>auth/login" method="post">
+             <form action="<?php echo base_url();?>C_login/login" method="post">
                 <div class="form-group has-feedback">
                     <input type="text" class="form-control" placeholder="Usuario" name="username">
                     <span class="glyphicon glyphicon-user form-control-feedback"></span>
